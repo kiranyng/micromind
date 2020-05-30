@@ -1,0 +1,2 @@
+# micromind
+basic neural network
